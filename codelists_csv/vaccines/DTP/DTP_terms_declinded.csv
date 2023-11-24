@@ -1,0 +1,46 @@
+"";"medcodeid";"term";"no_consent";"DNA";"contraindictaed";"not.immunised";"pertussis"
+"1";"1741241000006115";"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine immunisation declined";1;NA;NA;NA;1
+"2";"1741251000006118";"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine, haemophilus influenzae type b immunisation declined";1;NA;NA;NA;1
+"3";"1742141000006119";"Did not attend diphtheria, tetanus, acellular pertussis and polio vaccination";NA;1;NA;NA;1
+"4";"1742311000006115";"Did not attend diphtheria, tetanus and acellular pertussis vaccination";NA;1;NA;NA;1
+"5";"1845061000006113";"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination declined";1;NA;NA;NA;1
+"6";"1845811000006116";"Did not attend post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination";NA;1;NA;NA;1
+"7";"1907181000006113";"Diphtheria, tetanus, acellular pertussis and inactivated polio vaccination contraindicated";NA;NA;1;NA;1
+"8";"1907191000006111";"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine, Haemophilus influenzae type b vaccination contraindicated";NA;NA;1;NA;1
+"9";"1907201000006114";"Diphtheria, tetanus, inactivated polio vaccination contraindicated";NA;NA;1;NA;1
+"10";"1931961000006117";"No consent for booster diphth,tetanus,pertussis & polio vacc.";1;NA;NA;NA;1
+"11";"2009481000006117";"No consent for DTaP/Hep B/IPV/Hib vaccination";1;NA;NA;NA;1
+"12";"230211000006116";"Pertussis vaccine contraindicated";NA;NA;1;NA;1
+"13";"2323041000000117";"Diphtheria, tetanus, inactivated polio vaccination declined";1;NA;NA;NA;1
+"14";"2411371000000114";"Tetanus vaccination contraindicated";NA;NA;1;NA;NA
+"15";"2411651000000110";"Diphtheria vaccination contraindicated";NA;NA;1;NA;NA
+"16";"2478675010";"DNA - DTP, Hib and polio vaccination";NA;1;NA;NA;1
+"17";"2478676011";"DNA - DTaP, polio and MMR booster";NA;1;NA;NA;1
+"18";"2478677019";"DNA - 2nd DTP, Hib and polio vaccination";NA;1;NA;NA;1
+"19";"2478678012";"DNA - 3rd DTP, Hib and polio vaccination";NA;1;NA;NA;1
+"20";"265373019";"Not immunised against pertussis";NA;NA;NA;1;1
+"21";"265386011";"Pertussis vaccine refused";1;NA;NA;NA;1
+"22";"265394016";"Tetanus immunisation refused";1;NA;NA;NA;NA
+"23";"2694542015";"No consent - Tetanus/low dose diphtheria vaccine";1;NA;NA;NA;NA
+"24";"459156017";"No consent DTP immunisation";1;NA;NA;NA;1
+"25";"459159012";"No consent DT immunisation";1;NA;NA;NA;1
+"26";"673741000006118";"No consent - pertussis immunisation";1;NA;NA;NA;1
+"27";"673771000006114";"No consent - tetanus immunisation";1;NA;NA;NA;NA
+"28";"674671000006118";"No consent - diphtheria immunisation";1;NA;NA;NA;NA
+"29";"6837071000006112";"Did not attend DTP, Hib and polio vaccination";NA;1;NA;NA;1
+"30";"6837101000006119";"Did not attend DTaP, polio and MMR booster";NA;1;NA;NA;1
+"31";"6837131000006110";"Did not attend 2nd DTP, Hib and polio vaccination";NA;1;NA;NA;1
+"32";"6837161000006118";"Did not attend 3rd DTP, Hib and polio vaccination";NA;1;NA;NA;1
+"33";"7839721000006119";"Tetanus vaccination refused by patient";1;NA;NA;NA;NA
+"34";"7839731000006116";"Tetanus vaccine declined";1;NA;NA;NA;NA
+"35";"8192141000006114";"DTaP/IPV/Hib (Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine, haemophilus influenzae type b) immunisation declined";1;NA;NA;NA;1
+"36";"8317301000006119";"DTaP/IPV/Hib (Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine, Haemophilus influenzae type b) vaccination contraindicated";NA;NA;1;NA;1
+"37";"8458641000006110";"Diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined";1;NA;NA;NA;1
+"38";"8459931000006115";"Diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination contraindicated";1;NA;NA;NA;1
+"39";"8464891000006115";"First diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined";1;NA;NA;NA;1
+"40";"8464901000006116";"Second diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined";1;NA;NA;NA;1
+"41";"8464931000006112";"Third diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined";1;NA;NA;NA;1
+"42";"954411000006114";"Tetanus vaccination contraindicated";NA;NA;1;NA;NA
+"43";"955831000006117";"DNA - tetanus immunisation";NA;1;NA;NA;NA
+"44";"981971000006117";"No consent - DTaP/IPV/Hib";1;NA;NA;NA;1
+"45";"981981000006119";"No consent - dTaP/IPV";1;NA;NA;NA;1

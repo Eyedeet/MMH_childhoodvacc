@@ -1,0 +1,47 @@
+"";"medcodeid";"term";"pertussis";"adverse";"history";"poisoning"
+"1";"1014831000006116";"Adverse reaction to Adsorbed Diphtheria And Tetanus Vaccine Bp";NA;1;NA;NA
+"2";"1014851000006111";"Adverse reaction to Adsorbed Tetanus Vaccine Bp";NA;1;NA;NA
+"3";"1024951000006113";"Adverse reaction to Diphtheria, Tetanus And Acellular Pertussis Vaccine";1;1;NA;NA
+"4";"1026901000006118";"Adverse reaction to Pertussis Vaccine";1;1;NA;NA
+"5";"1059011000006114";"Adverse reaction to Diphtheria Vaccine for Adults and Adolescents, Adsorbed";NA;1;NA;NA
+"6";"1062331000006117";"Adverse reaction to Diphtheria Vaccine For Adults, Adsorbed";NA;1;NA;NA
+"7";"1062341000006110";"Adverse reaction to Diphtheria Vaccine, Adsorbed";NA;1;NA;NA
+"8";"1085951000006115";"Adverse reaction to Diphtheria And Tetanus Vaccine";NA;1;NA;NA
+"9";"1103921000006118";"Adverse reaction to Diphtheria,Tetanus And Pertussis Vaccine Bp";1;1;NA;NA
+"10";"1220613014";"Tetanus vaccine poisoning";NA;NA;NA;1
+"11";"1225255012";"Pertussis vaccine poisoning";1;NA;NA;1
+"12";"1230998011";"Mixed bacterial vaccine poisoning, excluding pertussis";NA;NA;NA;1
+"13";"13806241000006114";"Allergy to pertussis vaccine";1;1;NA;NA
+"14";"13806301000006116";"Allergy to tetanus vaccine";NA;1;NA;NA
+"15";"14076041000006110";"Adverse reaction to diphtheria, pertussis, and tetanus vaccine";1;1;NA;NA
+"16";"14076111000006110";"Adverse reaction to pertussis vaccine";1;1;NA;NA
+"17";"1843641000006119";"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination";1;1;NA;NA
+"18";"1843831000006111";"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination invitation";1;1;NA;NA
+"19";"1845691000006110";"Post-exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination programme enhanced services administration";1;NA;1;NA
+"20";"1915221000006114";"Adverse reaction to Boostrix-Ipv";1;1;NA;NA
+"21";"1994051000006112";"A&E treatment: tetanus - tetanus toxoid booster";NA;NA;1;NA
+"22";"1994061000006114";"A&E treatment: tetanus - combined tetanus/diphtheria booster";NA;NA;1;NA
+"23";"2335841000000112";"Pertussis vaccination given by other healthcare provider";1;1;NA;NA
+"24";"296876016";"Post tetanus vaccination encephalitis";NA;1;NA;NA
+"25";"296877013";"Post diphtheria vaccination encephalitis";NA;1;NA;NA
+"26";"296878015";"Post pertussis vaccination encephalitis";1;1;NA;NA
+"27";"324460014";"Mixed vaccine poisoning, excluding pertussis";NA;NA;NA;1
+"28";"331488012";"Adverse reaction to tetanus vaccine";NA;1;NA;NA
+"29";"331489016";"Adverse reaction to diphtheria vaccine";NA;1;NA;NA
+"30";"3335901000006119";"Mixed bacterial vaccine poisoning, excluding pertussis";NA;NA;NA;1
+"31";"350741000006119";"[X] Adverse react to mixed bacterial vacc, without pertussis";NA;1;NA;NA
+"32";"353481000006110";"[X] Adverse reaction to diphtheria vaccine";NA;1;NA;NA
+"33";"356761000006118";"[X] Adverse reaction to pertussis vaccine, incl combinations";1;1;NA;NA
+"34";"358161000006116";"[X] Adverse reaction to tetanus vaccine";NA;1;NA;NA
+"35";"377061000006116";"[X]Diphtheria vaccine caus adverse effects in therapeut use";NA;1;NA;NA
+"36";"420561000006118";"Pertussis vaccine adverse reaction";NA;1;NA;NA
+"37";"428661000006115";"[X]Tetanus vaccine causing adverse effects in therapeut use";NA;1;NA;NA
+"38";"456417017";"Diptheria,tetanus,pertussis and polio vaccine poisoning";1;NA;NA;1
+"39";"469231000006114";"Adverse reaction to mixed bacterial vacc, without pertussis";NA;1;NA;NA
+"40";"470451000006115";"Adverse reaction to pertussis vaccine,including combinations";1;1;NA;NA
+"41";"5809271000006118";"Tetanus vaccine allergy";NA;1;NA;NA
+"42";"6019451000006111";"Poisoning by diphtheria, tetanus, pertussis and polio vaccine";1;NA;NA;1
+"43";"6019471000006118";"Diptheria, tetanus, pertussis and polio vaccine poisoning";1;NA;NA;1
+"44";"902441000006110";"Reaction: tetanus vaccine";NA;1;NA;NA
+"45";"902451000006112";"Reaction: diphtheria vaccine";NA;1;NA;NA
+"46";"902461000006114";"Reaction: pertussis vaccine";1;1;NA;NA

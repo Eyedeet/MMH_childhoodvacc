@@ -1,0 +1,9 @@
+"";"medcodeid";"term";"DNA";"contraindictaed";"not.immunised";"no_consent"
+"1";"1154601000000115";"Did not attend pneumococcal vaccination";1;NA;NA;NA
+"2";"1161161000000115";"Did not attend second pneumococcal vaccination";1;NA;NA;NA
+"3";"1161201000000111";"Did not attend third pneumococcal vaccination";1;NA;NA;NA
+"4";"1484829019";"Pneumococcal vaccination contraindicated";NA;1;NA;NA
+"5";"1780289012";"Pneumococcal vaccination declined";NA;NA;NA;1
+"6";"265448018";"No consent pneumococcal immunisation";NA;NA;NA;1
+"7";"8043871000006117";"Pneumococcal vaccination declined by caregiver";NA;NA;NA;1
+"8";"954961000006119";"DNA - pneumococcal vaccination";1;NA;NA;NA
